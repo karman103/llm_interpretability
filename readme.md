@@ -22,5 +22,5 @@ This work is inspired by:
 
 ## Note
 
-This is simple prelimary work that I spent my evening on, so it needs some polishing (like accounting for stock splits)
+This is simple prelimary work that I spent a single evening on, so it needs some polishing (like accounting for stock splits)
 
