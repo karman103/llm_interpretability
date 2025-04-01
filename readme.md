@@ -1,6 +1,6 @@
 # Quantifying LLM Beliefs with  Statistics
 
-This notebook demonstrates how **Bayesian statistics** can be used to extract **quantitative answers** from the **qualitative outputs** of large language models (LLMs).
+This notebook demonstrates how **Statistics** can be used to extract **quantitative answers** from the **qualitative outputs** of large language models (LLMs).
 
 I used alpaca api to get historiocal data and bencmarked ARIMA and LLMP for 6 months daily data whole preicting the next 5 days.
 
