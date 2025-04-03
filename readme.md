@@ -8,11 +8,6 @@ Inspired by the NeurIPS 2024 paper [_LLM Processes: Numerical Predictive Distrib
 
 By conditioning LLMs on contextual text and using Bayesian inference, we can model a predictive distribution over numeric targets — effectively bridging the gap between free-form natural language and structured statistical modeling.
 
----
-
-> 💬 _If you're an interviewer from **PSP Investments**, please ask me about this repo — I'd be excited to walk through the ideas and code!_
-
----
 
 ## Acknowledgments
 
