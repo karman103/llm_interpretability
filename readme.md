@@ -1,4 +1,4 @@
-# Quantifying LLM Beliefs with  Statistics
+#  Quantifying LLM Beliefs with  Statistics
 
 This notebook demonstrates how **Statistics** can be used to extract **quantitative answers** from the **qualitative outputs** of large language models (LLMs).
 
